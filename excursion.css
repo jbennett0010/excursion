@@ -14,3 +14,7 @@ header{
     margin-top: 50px;
     margin-bottom: 25x;
 }
+.stock{
+    display:flex;
+    justify-content: center;
+}
